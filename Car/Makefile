@@ -1,0 +1,2 @@
+COMPONENT=carAppC
+include $(MAKERULES)
